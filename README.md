@@ -4,7 +4,7 @@
 A real-time messaging application built with the **MERN** stack, featuring **AI chat simulation**, **real-time communication with Socket.io**, and a **modern responsive interface** styled using **Tailwind CSS**. This project demonstrates full-stack development skills including secure authentication, WebSocket integration, and UI/UX design.
 
 ##  GitHub Repository
-- [messaging-dashboard](https://github.com/prasanna0062/messaging-dashboard)
+- [messaging-dashboard](https://github.com/prasannaedu/modern-messaging-dashboard)
 
 ##  Project Description
 The Modern Messaging Dashboard is a full-stack messaging platform that enables users to:
